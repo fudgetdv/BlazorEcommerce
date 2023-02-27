@@ -10,6 +10,9 @@
     max-width: 500px;
     text-align: center;
 }
+.original-price {
+    text-decoration: line-through;
+}
 
 @media (max-width: 10.23.98px){
     .media {
